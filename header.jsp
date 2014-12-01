@@ -154,7 +154,7 @@
                         <a href="/Training_Management_System/Home.jsp"><i class="fa fa-fw fa-dashboard"></i> Home</a>
                     </li>
                     <li>
-                        <a href="/Training_Management_System/updateCourse.jsp"><i class="fa fa-fw fa-bar-chart-o"></i> Update Course</a>
+                        <a href="/Training_Management_System/updateCourse.jsp"><i class="fa fa-fw fa-bar-chart-o"></i> yesyUpdate Course</a>
                     </li>
                     <li>
                         <a href="/Training_Management_System/verifyAttendance.jsp"><i class="fa fa-fw fa-table"></i> Verify Attendance</a>
